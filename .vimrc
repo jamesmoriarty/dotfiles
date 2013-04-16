@@ -27,10 +27,10 @@ let g:NERDTreeWinSize = 25
 
 " Format
 set autoindent                  " indent at the same level of the previous line
-set shiftwidth=4                " use indents of 4 spaces
+set shiftwidth=2                " use indents of 4 spaces
 set expandtab                   " tabs are spaces, not tabs
-set tabstop=4                   " an indentation every four columns
-set softtabstop=4               " let backspace delete indent
+set tabstop=2                   " an indentation every four columns
+set softtabstop=2               " let backspace delete indent
 
 " Key Mapping
 
