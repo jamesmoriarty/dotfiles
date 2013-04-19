@@ -22,6 +22,10 @@ set showmatch                   " show matching brackets/parenthesis
 set incsearch                   " find as you type search
 set hlsearch                    " highlight search terms
 
+" Split
+set splitbelow
+set splitright
+
 " NERDTree
 let g:NERDTreeWinSize = 25
 
